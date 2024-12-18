@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "uz-ung-docflow",
+          "appId": "1:716044964988:android:ba6110bf9dd4c6736b65f9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "uz-ung-docflow",
+          "configurations": {
+            "android": "1:716044964988:android:ba6110bf9dd4c6736b65f9",
+            "ios": "1:716044964988:ios:0e8efd74035101586b65f9"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716044964988",
+    "project_id": "uz-ung-docflow",
+    "storage_bucket": "uz-ung-docflow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716044964988:android:ba6110bf9dd4c6736b65f9",
+        "android_client_info": {
+          "package_name": "uz.ung.docflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIn5uaES3CEzId3fBjoU9LxCTG8LoWm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
